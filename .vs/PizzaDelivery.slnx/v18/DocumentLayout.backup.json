@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|c:\\users\\asus\\source\\repos\\pizzadelivery\\pizzadelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|solutionrelative:pizzadelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|c:\\users\\asus\\source\\repos\\pizzadelivery\\pizzadelivery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|solutionrelative:pizzadelivery\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|c:\\users\\asus\\source\\repos\\pizzadelivery\\pizzadelivery\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|solutionrelative:pizzadelivery\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|c:\\users\\asus\\source\\repos\\pizzadelivery\\pizzadelivery\\pizzadelivery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|solutionrelative:pizzadelivery\\pizzadelivery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|c:\\users\\asus\\source\\repos\\pizzadelivery\\pizzadelivery\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|solutionrelative:pizzadelivery\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|c:\\users\\asus\\source\\repos\\pizzadelivery\\pizzadelivery\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|solutionrelative:pizzadelivery\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|c:\\users\\asus\\source\\repos\\pizzadelivery\\pizzadelivery\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0393481-E1D4-4BCB-AF9F-5DC8AEEB057B}|PizzaDelivery\\PizzaDelivery.csproj|solutionrelative:pizzadelivery\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Data\\PizzaContext.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery\\Data\\PizzaContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Data\\PizzaContext.cs",
+              "RelativeToolTip": "PizzaDelivery\\Data\\PizzaContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:21:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Program.cs",
+              "RelativeToolTip": "PizzaDelivery\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswEsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:13:26.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "PizzaDelivery\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:12:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\Order.cs",
+              "RelativeToolTip": "PizzaDelivery\\Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:02:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\Customer.cs",
+              "RelativeToolTip": "PizzaDelivery\\Models\\Customer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:46:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PizzaDelivery\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\Models\\Product.cs",
+              "RelativeToolTip": "PizzaDelivery\\Models\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:16:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaDelivery",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\PizzaDelivery.csproj",
+              "RelativeDocumentMoniker": "PizzaDelivery\\PizzaDelivery.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PizzaDelivery\\PizzaDelivery\\PizzaDelivery.csproj",
+              "RelativeToolTip": "PizzaDelivery\\PizzaDelivery.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T06:16:07.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
