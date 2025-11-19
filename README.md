@@ -22,7 +22,7 @@ The project demonstrates how to:
 ---
 
 ### Learning Purpose
-- This project is ideal for beginners who are learning:
+This project is ideal for beginners who are learning:
 - EF Core basics
 - Code-First workflow
 - CRUD operations
